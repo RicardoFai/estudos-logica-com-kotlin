@@ -1,2 +1,2 @@
-# estudos-logica-com-python
+# estudos-logica-com-kotlin
 Repositório de estudos de programação compython
